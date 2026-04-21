@@ -21,7 +21,7 @@ void main() async {
       // Use the provided web configuration
       await Firebase.initializeApp(
         options: const FirebaseOptions(
-          apiKey: "AIzaSyDFnxshHMTx-97C98IzOoMXWooj3FQPX0g",
+          apiKey: "yourrrrrrrr-keyyyyy",
           authDomain: "digitalcopy-9f237.firebaseapp.com",
           projectId: "digitalcopy-9f237",
           storageBucket: "digitalcopy-9f237.firebasestorage.app",
